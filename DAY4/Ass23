@@ -8,3 +8,4 @@ int main(){
     else
     printf("%c is a consonant\n",ch);
     return 0;
+}
